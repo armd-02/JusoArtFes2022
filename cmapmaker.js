@@ -8,6 +8,11 @@ class CMapMaker {
 		this.mode = "map";
 	};
 
+	about(){
+		let msg = { msg: glot.get("about_message"), ttl: glot.get("about") };
+		winCont.modal_open({ "title": msg.ttl, "message": msg.msg, "mode": "close", callback_close: winCont.modal_close, "menu": false });
+	}
+
 	licence() {			// About license
 		let msg = { msg: glot.get("licence_message") + glot.get("more_message"), ttl: glot.get("licence_title") };
 		winCont.modal_open({ "title": msg.ttl, "message": msg.msg, "mode": "close", callback_close: winCont.modal_close, "menu": false });

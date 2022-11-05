@@ -69,18 +69,13 @@
     // トップメニュー一覧
     "menu": [
         {
+            "glot-model": "about",
+            "linkto": "https://yodogawaartnet.jimdofree.com/%E5%8D%81%E4%B8%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%95%E3%82%A7%E3%82%B9/%E3%83%95%E3%82%A7%E3%82%B92022%E4%B8%80%E8%A6%A7%E3%83%88%E3%83%83%E3%83%97/",
+            "divider": false
+        },
+        {
             "glot-model": "licence_title",
             "linkto": "javascript:cMapmaker.licence()",
-            "divider": false
-        },
-        {
-            "glot-model": "about",
-            "linkto": "https://github.com/armd-02/JusoArtFes2022",
-            "divider": false
-        },
-        {
-            "glot-model": "owner",
-            "linkto": "https://github.com/K-Sakanoshita/community_mapmaker",
             "divider": false
         },
         {
