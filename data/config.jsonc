@@ -88,7 +88,7 @@
     "detail_menu": [
         {
             "glot-model": "act_add",
-            "linkto": "javascript:modal_activities.edit({form:JusoArtFes2022'})",
+            "linkto": "javascript:modal_activities.edit({form:'JusoArtFes2022'})",
             "divider": false
         },
         {

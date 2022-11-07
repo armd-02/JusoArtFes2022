@@ -6861,6 +6861,38 @@
             "id": 9921926092,
             "lat": 34.7167751,
             "lon": 135.4805438
+        },
+        {
+            "type": "node",
+            "id": 10159518044,
+            "lat": 34.7149775,
+            "lon": 135.4796895,
+            "tags": {
+                "amenity": "arts_centre",
+                "name": "キッズクラフト",
+                "website": "http://kidscraftosaka.jp/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10159282115,
+            "lat": 34.7137192,
+            "lon": 135.4696764,
+            "tags": {
+                "amenity": "restaurant",
+                "name": "なかの食鶏 塚本店"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10159629410,
+            "lat": 34.7443235,
+            "lon": 135.4949112,
+            "tags": {
+                "amenity": "social_facility",
+                "name": "ここコミュ",
+                "operator": "特定非営利活動法人ここから100"
+            }
         }
     ]
 }
