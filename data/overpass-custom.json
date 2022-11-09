@@ -7,12 +7,15 @@
                 "node[\"shop\"]",
                 "way[\"shop\"]",
                 "node[\"tourism\"]",
-                "way[\"tourism\"]"
+                "way[\"tourism\"]",
+                "node[\"railway\"]",
+                "way[\"railway\"]"
             ],
             "tags": [
                 "shop",
                 "amenity",
-                "tourism"
+                "tourism",
+                "railway"
             ],
             "expression": {
                 "stroke": "#A06060",

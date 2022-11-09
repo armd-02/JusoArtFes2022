@@ -5775,7 +5775,7 @@
         {
             "type": "node",
             "id": 9691888789,
-            "lat": 34.7232303,
+            "lat": 34.72329,
             "lon": 135.4874282,
             "timestamp": "2022-04-25T10:47:55Z",
             "version": 1,
@@ -6892,6 +6892,68 @@
                 "amenity": "social_facility",
                 "name": "ここコミュ",
                 "operator": "特定非営利活動法人ここから100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9921941800,
+            "lat": 34.7178406,
+            "lon": 135.4795417,
+            "tags": {
+                "amenity": "nightclub",
+                "name": "グランドサロン十三",
+                "website": "https://juso13.net/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9921992288,
+            "lat": 34.719005,
+            "lon": 135.4807284,
+            "tags": {
+                "amenity": "cinema",
+                "name": "シアターセブン"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10171337918,
+            "lat": 34.7183914,
+            "lon": 135.4770335,
+            "tags": {
+                "amenity": "social_facility",
+                "name": "コドモブロス",
+                "operator": "codomoBROS",
+                "website": "http://codomobros.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7536331299,
+            "lat": 34.7176212,
+            "lon": 135.4806110,
+            "tags": {
+                "name": "よしみ",
+                "shop": "alcohol"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4427192486,
+            "lat": 34.71980,
+            "lon": 135.4828,
+            "tags": {
+                "name": "十三(東口)",
+                "name:en": "Jūsō",
+                "network": "阪急電鉄神戸線;阪急電鉄宝塚線;阪急電鉄京都線",
+                "operator": "阪急電鉄",
+                "public_transport": "station",
+                "railway": "station",
+                "toilets:wheelchair": "yes",
+                "train": "yes",
+                "wheelchair": "yes",
+                "wikidata": "Q866163",
+                "wikipedia": "ja:十三駅"
             }
         }
     ]

@@ -9,7 +9,8 @@
                     "type": "select",
                     "category": [
                         "アート",
-                        "メニュー"
+                        "メニュー",
+                        "イベント"
                     ],
                     "gsheet": "category"
                 },
