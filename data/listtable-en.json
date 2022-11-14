@@ -8,28 +8,28 @@
                 },
                 {
                     "id": "category",
-                    "name": "Category"
+                    "name": "Category",
+                    "hidden": true
                 },
                 {
                     "id": "name",
-                    "name": "Title"
+                    "name": "name"
                 },
                 {
-                    "id": "updatetime",
-                    "name": "Date"
+                    "id": "title",
+                    "name": "title"
                 }
             ],
             "poi_fields": [
                 "id",
                 "#category",
-                "name",
-                "timestamp"
+                "name"
             ],
             "act_fields": [
                 "id",
                 "category",
-                "title",
-                "updatetime"
+                "name",
+                "title"
             ]
         }
     }

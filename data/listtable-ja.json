@@ -13,7 +13,11 @@
                 },
                 {
                     "id": "name",
-                    "name": "題名"
+                    "name": "施設名"
+                },
+                {
+                    "id": "title",
+                    "name": "タイトル"
                 }
             ],
             "poi_fields": [
@@ -24,6 +28,7 @@
             "act_fields": [
                 "id",
                 "category",
+                "name",
                 "title"
             ]
         }
