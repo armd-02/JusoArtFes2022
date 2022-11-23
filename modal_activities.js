@@ -91,7 +91,7 @@ class modal_Activities {
                                 break;
                             case "image_url":
                                 if (gdata !== "http://" && gdata !== "https://" && gdata !== "") {
-                                    chtml += `<div class="col text-center"><img class="m-1" src="${gdata}"></div><br>`;
+                                    chtml += `<div class="col text-center"><img class="m-1 in_modal" src="${gdata}"></div><br>`;
                                 };
                                 break;
                         };
